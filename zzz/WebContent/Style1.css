@@ -1,6 +1,12 @@
 @charset "UTF-8";
 
-h1{
-	color:blue;
-	background:black;
+#main_header{
+	color: red;
+	background: orange;
 }
+
+.inner_menu_item{
+	color: blue;
+	background: green;
+}
+
